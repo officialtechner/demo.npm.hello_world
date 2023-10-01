@@ -1,6 +1,6 @@
 {
   "name": "@techner/hello-world",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This package is demo purpose",
   "main": "index.js",
   "repository": {
