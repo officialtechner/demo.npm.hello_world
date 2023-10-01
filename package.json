@@ -1,8 +1,12 @@
 {
   "name": "@techner/hello-world",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package is demo purpose",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/officialtechner/demo.npm.hello_world"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
