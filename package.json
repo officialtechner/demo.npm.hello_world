@@ -1,0 +1,15 @@
+{
+  "name": "@techner/hello-world",
+  "version": "0.0.1",
+  "description": "This package is demo purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "techner"
+  ],
+  "author": "Techner",
+  "license": "ISC"
+}
